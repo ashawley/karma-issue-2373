@@ -1,0 +1,4 @@
+node_modules/
+app/dist/
+test/reports
+junit_results.xml

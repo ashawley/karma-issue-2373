@@ -57,6 +57,7 @@
     "browserify": "^15.2.0",
     "browserify-shim": "^3.8.14",
     "budo": "^11.0.1",
+    "hoek": "^4.2.1",
     "http-server": "^0.11.1",
     "jasmine-core": "^2.9.1",
     "jasmine-jquery": "^2.1.1",

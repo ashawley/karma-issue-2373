@@ -67,7 +67,7 @@
     "karma-chrome-launcher": "^2.2.0",
     "karma-firefox-launcher": "^1.1.0",
     "karma-jasmine": "^1.1.2",
-    "karma-jasmine-jquery": "^0.1.1",
+    "@metahub/karma-jasmine-jquery": "^1.1.2",
     "karma-junit-reporter": "^1.2.0",
     "karma-less-preprocessor": "^0.3.3",
     "karma-ng-html2js-preprocessor": "^1.0.0",

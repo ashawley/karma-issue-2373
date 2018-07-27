@@ -20,6 +20,11 @@ module.exports = function(config) {
       '**/*~'
     ],
 
+    plugins: [
+      '@metahub/karma-jasmine-jquery',
+      'karma-*'
+    ],
+
     preprocessors: {
       'app/js/**/*.js': [ 'browserify' ],
       'app/style/**/*.less': [ 'less' ]

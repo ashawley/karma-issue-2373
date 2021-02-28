@@ -8,7 +8,7 @@ describe('index', function() {
 
   it('jQuery', function() {
     expect($).toBeDefined();
-    expect($().jquery).toBe('3.3.1');
+    expect($().jquery).toBe('3.5.1');
   });
 
   it('bootstrap', function() {
@@ -23,7 +23,7 @@ describe('index', function() {
     expect($.fn.scrollspy).toBeDefined();
     expect($.fn.tab).toBeDefined();
     expect($.fn.tooltip).toBeDefined();
-    expect($.fn.tooltip.Constructor.VERSION).toBe('3.3.7');
+    expect($.fn.tooltip.Constructor.VERSION).toBe('3.4.1');
   });
 
 });

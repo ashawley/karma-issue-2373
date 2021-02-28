@@ -43,7 +43,7 @@
   },
   "homepage": "https://github.com/ashawley/karma-issue-2373#readme",
   "dependencies": {
-    "angular": "^1.6.10",
+    "angular": "^1.8.0",
     "angular-loader": "^1.6.10",
     "angular-route": "^1.6.10",
     "angular-sanitize": "^1.6.10",

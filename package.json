@@ -44,16 +44,16 @@
   "homepage": "https://github.com/ashawley/karma-issue-2373#readme",
   "dependencies": {
     "angular": "^1.8.2",
-    "angular-loader": "^1.6.10",
-    "angular-route": "^1.6.10",
-    "angular-sanitize": "^1.6.10",
+    "angular-loader": "^1.8.2",
+    "angular-route": "^1.8.2",
+    "angular-sanitize": "^1.8.2",
     "angular-ui-bootstrap": "^2.5.6",
     "bootstrap": "^3.4.1",
     "jquery": "^3.5.1"
   },
   "devDependencies": {
     "@metahub/karma-jasmine-jquery": "^1.1.2",
-    "angular-mocks": "^1.6.10",
+    "angular-mocks": "^1.8.2",
     "beefy": "^2.1.8",
     "browserify": "^15.2.0",
     "browserify-shim": "^3.8.14",

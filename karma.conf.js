@@ -61,8 +61,6 @@ module.exports = function(config) {
       'PhantomJS'
     ],
 
-    concurrency: 1,
-
     browserify: {
       debug: true
     }
